@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BookingMe</string>
+    <string name="hello_compass_fragment">Hello compass fragment</string>
+    <string name="hello_search_fragment">Hello search fragment</string>
+    <string name="hello_account_fragment">Hello account fragment</string>
+
+    <string name="com_auth0_client_id">A6C5se4gnx4SvQzwJ6a8cXCnBsNYbmz5</string>
+    <string name="com_auth0_domain">mick.eu.auth0.com</string>
+    <string name="logo_text">logo</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="sign_in_with_email">Sign in with Email</string>
+    <string name="let_s_get_started">Let’s Get Started</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="privacy">By creating or logging into an account, you\'re agreeing with our Terms &amp; Conditions and Privacy Statement</string>
+
+</resources>

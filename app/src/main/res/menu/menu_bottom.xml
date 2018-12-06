@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="" android:icon="@drawable/ic_compas_white" android:id="@+id/menu_compas_id"/>
+    <item android:title="" android:icon="@drawable/ic_search_white"
+          android:id="@+id/menu_search_id"/>
+    <item android:title="" android:icon="@drawable/ic_account" android:id="@+id/menu_account_id"/>
+</menu>
